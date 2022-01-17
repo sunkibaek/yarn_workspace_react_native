@@ -26,7 +26,7 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import Hello from 'components/Hello';
+import Hello from 'lib/src/components/HelloWorld';
 
 const Section: React.FC<{
   title: string;
